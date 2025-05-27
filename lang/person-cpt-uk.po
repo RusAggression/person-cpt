@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Person CPT 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-27T05:07:47+00:00\n"
+"PO-Revision-Date: 2025-05-27 08:11+0300\n"
+"Language: uk\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: person-cpt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Person CPT"
+msgstr "Person CPT"
+
+#. Author of the plugin
+#: index.php
+msgid "Prometheus"
+msgstr "Prometheus"
+
+#: inc/class-admin.php:39
+msgid "Person Details"
+msgstr "Деталі Персони"
+
+#: inc/class-personposttype.php:12
+msgctxt "post type general name"
+msgid "Persons"
+msgstr "Персони"
+
+#: inc/class-personposttype.php:13
+msgctxt "post type singular name"
+msgid "Person"
+msgstr "Персона"
+
+#: inc/class-personposttype.php:14
+msgctxt "admin menu"
+msgid "Persons"
+msgstr "Персони"
+
+#: inc/class-personposttype.php:15
+msgctxt "database"
+msgid "Add New"
+msgstr "Додати нову"
+
+#: inc/class-personposttype.php:16
+msgid "Add New Person"
+msgstr "Додати нову Персону"
+
+#: inc/class-personposttype.php:17
+#: inc/class-persontaxonomy.php:18
+msgid "Edit Person"
+msgstr "Редагувати Персону"
+
+#: inc/class-personposttype.php:18
+msgid "New Person"
+msgstr "Нова Персона"
+
+#: inc/class-personposttype.php:19
+#: inc/class-persontaxonomy.php:20
+msgid "View Person"
+msgstr "Переглянути Персону"
+
+#: inc/class-personposttype.php:20
+#: inc/class-persontaxonomy.php:25
+msgid "Search Persons"
+msgstr "Шукати Персон"
+
+#: inc/class-personposttype.php:21
+msgid "No persons found"
+msgstr "Персон не знайдено"
+
+#: inc/class-personposttype.php:22
+msgid "No persons found in trash"
+msgstr "У кошику немає Персон"
+
+#: inc/class-persontaxonomy.php:12
+msgctxt "Taxonomy General Name"
+msgid "Persons"
+msgstr "Персони"
+
+#: inc/class-persontaxonomy.php:13
+msgctxt "Taxonomy Singular Name"
+msgid "Person"
+msgstr "Персона"
+
+#: inc/class-persontaxonomy.php:14
+msgid "Persons"
+msgstr "Персони"
+
+#: inc/class-persontaxonomy.php:15
+msgid "All Persons"
+msgstr "Усі Персони"
+
+#: inc/class-persontaxonomy.php:16
+msgid "New Person Name"
+msgstr "Назва нової Персони"
+
+#: inc/class-persontaxonomy.php:17
+msgid "Add Person"
+msgstr "Додати Персону"
+
+#: inc/class-persontaxonomy.php:19
+msgid "Update Person"
+msgstr "Оновити Персону"
+
+#: inc/class-persontaxonomy.php:21
+msgid "Separate persons with commas"
+msgstr "Розділяйте Персон комами"
+
+#: inc/class-persontaxonomy.php:22
+msgid "Add or remove persons"
+msgstr "Додати або видалити Персон"
+
+#: inc/class-persontaxonomy.php:23
+msgid "Choose from the most used"
+msgstr "Виберіть із найчастіше використовуваних"
+
+#: inc/class-persontaxonomy.php:24
+msgid "Popular Persons"
+msgstr "Популярні Персони"
+
+#: inc/class-persontaxonomy.php:26
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: inc/class-persontaxonomy.php:27
+msgid "No persons"
+msgstr "Немає Персон"
+
+#: inc/class-persontaxonomy.php:28
+msgid "Persons list"
+msgstr "Список Персон"
+
+#: inc/class-persontaxonomy.php:29
+msgid "Persons list navigation"
+msgstr "Навігація списком Персон"
+
+#: views/person-metabox.php:25
+msgid "Birth Date:"
+msgstr "Дата народження:"
+
+#: views/person-metabox.php:29
+msgid "Death Date:"
+msgstr "Дата смерті:"
