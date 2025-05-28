@@ -1,5 +1,5 @@
 {
-    "name": "prometheus/person-cpt",
+    "name": "rusaggression/person-cpt",
     "type": "wordpress-plugin",
     "license": "MIT",
     "autoload": {
